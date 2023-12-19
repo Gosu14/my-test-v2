@@ -1,0 +1,14 @@
+{
+    "version": "1",
+    "branches": [
+        "*"
+    ],
+    "applications": [
+        {
+            "name": "My honest application",
+            "slug": "my-test-v2",
+            "version": "0.0.1",
+            "rootDir": "/apps/my-test-v2"
+        }
+    ]
+}
